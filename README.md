@@ -1,5 +1,7 @@
 # DeliveryMatchers
 
+[![Build Status](https://semaphoreci.com/api/v1/generalassembly/delivery_matchers/branches/master/badge.svg)](https://semaphoreci.com/generalassembly/delivery_matchers)
+
 An RSpec custom matcher for ActionMailer's `deliver_later` method.
 
 This matcher was extracted from a General Assembly product with a considerable amount of logic to determine when to send certain transactional emails to different subsets of students.
